@@ -1,0 +1,8 @@
+github.com/buildkite/go-buildkite/v3 v3.11.0 h1:A43KDOuNczqrY8wqlsHNtPoYbgWXYC/slkB/2JYXr5E=
+github.com/buildkite/go-buildkite/v3 v3.11.0/go.mod h1:TmZggyr5HqkOhNbTrcdOdmwuYbQqcfwr9MSyKyMQWAA=
+github.com/cenkalti/backoff v1.1.1-0.20171020064038-309aa717adbf h1:yxlp0s+Sge9UsKEK0Bsvjiopb9XRk+vxylmZ9eGBfm8=
+github.com/cenkalti/backoff v1.1.1-0.20171020064038-309aa717adbf/go.mod h1:90ReRw6GdpyfrHakVjL/QHaoyV4aDUVVkXQJJJ3NXXM=
+github.com/google/go-querystring v1.0.0 h1:Xkwi/a1rcvNg1PPYe5vI8GbeBY/jrVuDX5ASuANWTrk=
+github.com/google/go-querystring v1.0.0/go.mod h1:odCYkC5MyYFN7vkCjXpyrEuKhc/BUO6wN/zVPAxq5ck=
+golang.org/x/net v0.17.0 h1:pVaXccu2ozPjCXewfr1S7xza/zcXTity9cCdXQYSjIM=
+golang.org/x/net v0.17.0/go.mod h1:NxSsAGuq816PNPmqtQdLE42eU2Fs7NoRIZrHJAlaCOE=
