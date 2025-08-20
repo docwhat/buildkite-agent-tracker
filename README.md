@@ -2,6 +2,8 @@
 
 > A simple program to list all your builder agents and their status
 
+This project has been archived because I no longer use Buildkite.
+
 ## Installation
 
 ```console
